@@ -10,7 +10,7 @@ The app fetches random questions from an API and allows the user to answer them 
 - Multiple choice answers  
 - Shows final score with correct and wrong answers
 - Responsive design with Bootstrap
-- 
+
 ## Author  
 Md-Kajim (CodSoft Internship)
 
